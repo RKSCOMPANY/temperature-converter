@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="temperatureconverter">
+    <output-path>$PROJECT_DIR$/out/artifacts/temperatureconverter</output-path>
+    <root id="root">
+      <element id="archive" name="temperatureconverter.jar">
+        <element id="module-output" name="temperatureconverter" />
+      </element>
+    </root>
+  </artifact>
+</component>
